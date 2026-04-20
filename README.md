@@ -13,19 +13,19 @@
 ## 📸 Screenshots
 
 ### 🌐 Language Selection
-![Language Selection](./screenshots/language.png)
+![Language Selection](https://github.com/mayankjain2710/nivesh-mitra/blob/main/Screenshots/Screenshot%20(1179).png)
 
-### 💬 Chat Interface
-![Chat UI](./screenshots/chat.png)
+### 💬 Chat UI
+![Chat UI](https://github.com/mayankjain2710/nivesh-mitra/blob/main/Screenshots/Screenshot%20(1180).png)
 
-### 🧠 AI Response (Jargon Simplification)
-![AI Response](./screenshots/response.png)
+### 🧠 AI Response
+![AI Response](https://github.com/mayankjain2710/nivesh-mitra/blob/main/Screenshots/Screenshot%20(1181).png)
 
-### 🌍 Multilingual Support
-![Multilingual](./screenshots/multilingual.png)
+### 🌍 Multilingual
+![Multilingual](https://github.com/mayankjain2710/nivesh-mitra/blob/main/Screenshots/Screenshot%20(1182).png)
 
-### 📱 Clean UI Layout
-![UI Layout](./screenshots/ui.png)
+### 📱 UI Layout
+![UI Layout](https://github.com/mayankjain2710/nivesh-mitra/blob/main/Screenshots/Screenshot%20(1183).png)
 
 ---
 
