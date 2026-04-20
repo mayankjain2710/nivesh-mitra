@@ -10,6 +10,26 @@
 
 ---
 
+## 📸 Screenshots
+
+### 🌐 Language Selection
+![Language Selection](./screenshots/language.png)
+
+### 💬 Chat Interface
+![Chat UI](./screenshots/chat.png)
+
+### 🧠 AI Response (Jargon Simplification)
+![AI Response](./screenshots/response.png)
+
+### 🌍 Multilingual Support
+![Multilingual](./screenshots/multilingual.png)
+
+### 📱 Clean UI Layout
+![UI Layout](./screenshots/ui.png)
+
+---
+
+
 ## 💡 Problem Statement
 
 Many first-time investors in India struggle to understand financial products due to:
